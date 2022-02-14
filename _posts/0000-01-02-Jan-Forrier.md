@@ -1,7 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to the Jafo slide!"
 ---
-
-My text
+This is the most awesome slide ever :tada:
 Use the left arrow to go back!
